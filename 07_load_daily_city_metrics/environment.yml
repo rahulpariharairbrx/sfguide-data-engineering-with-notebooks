@@ -1,0 +1,8 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - anaconda-project=*
+  - openpyxl=*
+  - pandas=*
+  - snowflake=*
